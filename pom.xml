@@ -30,7 +30,7 @@
 			<dependency>
 				<groupId>mysql</groupId>
 				<artifactId>mysql-connector-java</artifactId>
-				<version>5.1.47</version>
+				<version>8.0.16</version>
 			</dependency>
 
 			<!-- 导入Druid数据链接库连接池,时阿里云开源平台的数据库连接池实例 -->
